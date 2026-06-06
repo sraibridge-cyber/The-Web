@@ -1,6 +1,8 @@
 # The-Web
+**External connectivity · Harmony Labs**
 
-Cross-domain data routing. Interconnects all Harmony systems.
+External connectivity · HTTP clients, APIs, and web scraping
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
